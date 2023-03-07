@@ -1,2 +1,3 @@
 # GestionScolaireOFPPT
- création d'application pour faciliter le travail par l administrations 
+ création d'application pour faciliter le travail par l administrations de OFPPT
+ 
