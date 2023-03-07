@@ -1,0 +1,72 @@
+les interfeaces : 
+	1. interface d'acceuill 
+		.nav bar(home ,contact ,about,connexion) ,
+		 body(les presenations des matieres) 
+		 fouter 
+	2.Ïnterface de contact il permet de affiche le numero de Ista ,adminstartion
+	3.Inerface d'ffichage des matiere plus advs
+	4.interface de login (input de email ,selectOption{supperAdmin,Admin,stagire },Password)
+	||.gestion de forget password 
+		.intefece de initialisation de password (Nom et prenom ,eamil,NCd)
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+================================================= interface de acteur SupperAdmin =======================================================================
+ 
+	#### dashbord ### -> gestion de compte (modify , supprimer , ajouter ) 
+	-> gestion des emploi (crud=> [ajouter , modify , supprimer , redOnly ,Recherche  ])
+		.$ rechercher ==> input filtrage+ option [type emploi ]+ slect par [id , Nom]  
+			resultats : <div> les info des profisseur + moddify + supprimer + read only + activer </div>
+				1. readOnly  => age des infos de professeur/ formatrice ....
+				2. supprimer => alert de confirmation -> message de succes + rediriver par linterface de liste de emploi 
+				3. modifybbb => interface de modification => enrgister => message de succes + va transformer a le profil de cette emploi 
+			4. ajouter   => interface des ajouters de emploi => saisir les dentifications => envouyer => message de succser => rediriger de liste emploi
+				5. (activer && desactiver )
+				6. affectation module -> formateur 
+				7.affecation des group -> fouramteur 
+	-> initialisation Passw de (admin + formateur)
+				1. recherche un emploi => resulta 
+					1->readOnly -> initialisation de compte -> message succes + affichage emploi 
+	-> gestion de stagire (crud + activer /desactiver le compte )
+				1.resultat recherche -> button activer&& desactiver -> message de confirmation ->message de succes -> deriger vers la emploi (activer&& desactiver) 
+	-> gestion des filliere (matiere ) => crud (ajouter , supprimer , modifier , readOly )
+				1.voir la gestion de emploi ------------
+
+
+================================================== interface acteur de admin =============================================================================
+
+	-> gestion de compte (modify , supprimer , ajouter )
+	-> gestion des stagieres (ajouter ,supprimer, modify,readOny ,importer,exporter, supprimerTout)
+	-> gestion Formateur 
+		.affectation salle a formateur 
+	-> gestion d'absence et rtrd (AJouter,supprimer ,modifier,reoOnly)
+	-> gestion de malDesiplaine (ajouter,supprimer,modify,calculer,exporter)
+		
+	-> gestion des salles (ajouter , modify,supprimer)
+		.gestion de prise en chharge prise en charge 
+	-> gestion des emploi de temps 
+		.ajouter , modifier , supprimer , exporter
+
+		##  profil de stagirie 	
+	-> gestion des notes de desciplaine 
+		
+	-> gestion des surtificats 
+	
+			 
+=================================================== interface actuer de formateur ==========================================================================
+
+	-> gestion emploi de temps de vous group 
+		
+	-> gestion absence 
+	-> gestion clandrier 
+	
+
+			interface acteur de stagiere 
+
+	-> voir les notes + voir les jour absence +voir les emplois de votre group 
+	
+	
+
+		
+	
