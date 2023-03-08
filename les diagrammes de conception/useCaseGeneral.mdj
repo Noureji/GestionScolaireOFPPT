@@ -14688,8 +14688,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 787,
-									"top": 332,
+									"left": 813,
+									"top": 322,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -14708,8 +14708,8 @@
 										"$ref": "AAAAAAGGwQViwOST1rM="
 									},
 									"font": "Arial;13;0",
-									"left": 773,
-									"top": 323,
+									"left": 800,
+									"top": 315,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -14731,8 +14731,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 762,
-									"top": 349,
+									"left": 786,
+									"top": 337,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -14750,7 +14750,7 @@
 								"$ref": "AAAAAAGGwOmqIrpo4ao="
 							},
 							"lineStyle": 1,
-							"points": "672:208;879:487",
+							"points": "679:208;800:336;884:487",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGGwQViwOSWpuo="
@@ -18006,6 +18006,145 @@
 							}
 						}
 					]
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGGwS//0DqAmjs=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model3",
+			"ownedElements": [
+				{
+					"_type": "UMLUseCaseDiagram",
+					"_id": "AAAAAAGGwS//0DqBl90=",
+					"_parent": {
+						"$ref": "AAAAAAGGwS//0DqAmjs="
+					},
+					"name": "UseCaseDAdmin",
+					"ownedViews": [
+						{
+							"_type": "UMLUseCaseSubjectView",
+							"_id": "AAAAAAGGwTMFWD8bHf8=",
+							"_parent": {
+								"$ref": "AAAAAAGGwS//0DqBl90="
+							},
+							"model": {
+								"$ref": "AAAAAAGGwTMFWD8Z7QU="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGGwTMFWD8c2z8=",
+									"_parent": {
+										"$ref": "AAAAAAGGwTMFWD8bHf8="
+									},
+									"model": {
+										"$ref": "AAAAAAGGwTMFWD8Z7QU="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGGwTMFWT8d0tw=",
+											"_parent": {
+												"$ref": "AAAAAAGGwTMFWD8c2z8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGGwTMFWT8e0sY=",
+											"_parent": {
+												"$ref": "AAAAAAGGwTMFWD8c2z8="
+											},
+											"font": "Arial;13;1",
+											"left": 165,
+											"top": 383,
+											"width": 1151,
+											"height": 13,
+											"text": "DiagrammeUseCasAdmin"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGGwTMFWT8fzdo=",
+											"_parent": {
+												"$ref": "AAAAAAGGwTMFWD8c2z8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 80.9072265625,
+											"height": 13,
+											"text": "(from Model3)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGGwTMFWT8gdvw=",
+											"_parent": {
+												"$ref": "AAAAAAGGwTMFWD8c2z8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 160,
+									"top": 376,
+									"width": 1161,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGGwTMFWT8d0tw="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGGwTMFWT8e0sY="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGGwTMFWT8fzdo="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGGwTMFWT8gdvw="
+									}
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 160,
+							"top": 376,
+							"width": 1161,
+							"height": 617,
+							"nameCompartment": {
+								"$ref": "AAAAAAGGwTMFWD8c2z8="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGGwTGhXTrHOzs=",
+					"_parent": {
+						"$ref": "AAAAAAGGwS//0DqAmjs="
+					},
+					"name": "Package1"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGGwTJjXDsAF/o=",
+					"_parent": {
+						"$ref": "AAAAAAGGwS//0DqAmjs="
+					},
+					"name": "Package2"
+				},
+				{
+					"_type": "UMLUseCaseSubject",
+					"_id": "AAAAAAGGwTMFWD8Z7QU=",
+					"_parent": {
+						"$ref": "AAAAAAGGwS//0DqAmjs="
+					},
+					"name": "DiagrammeUseCasAdmin"
 				}
 			]
 		}
