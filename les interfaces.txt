@@ -1,4 +1,4 @@
-les interfeaces : 
+Fgles interfeaces : 
 	1. interface d'acceuill 
 		.nav bar(home ,contact ,about,connexion) ,
 		 body(les presenations des matieres) 
