@@ -1,0 +1,123 @@
+===========> Methologie et Developpement <====================
+
+	Méthodologie de développement
+
+•Il existe plusieurs méthodologies de gestion de projet,
+ chacune avec ses propres avantages et inconvénients,
+ certaines des plus populaires sont :
+	=> méthode gile :C'est une approche flexible
+ 	pour la gestion de projet qui se concentre sur 
+	la livraison de valeur pour le client et une collaboration continue avec l'équipe de développement.
+ ,	=>: méthode Waterfall : C'est une approche
+	 linéaire pour la gestion de projet où chaque
+	phase doit être complétée avant de passer à la suivante
+=>(photo 0 )Nous avons choisi d'utiliser la méthode Scrum pour la réalisation de notre application web de gestion scolaire,
+ car elle nous permettra de travailler de manière collaborative, transparente et itérative pour fournir un produit 
+final de qualité dans les délais impartis. Nous avons un délai de 30 jours pour créer et livrer l'application, 
+et la méthode Scrum nous permettra de bien organiser le projet en utilisant des sprints pour livrer des fonctionnalités
+ en petits lots et obtenir régulièrement des commentaires de nos parties prenantes et utilisateurs finaux. 
+Nous aurons des réunions quotidiennes de scrum pour surveiller la progression du projet, 
+identifier et résoudre rapidement les problèmes et nous assurer que nous atteignons nos objectifs dans les délais impartis
+
+Daigrame de gantt (photo 1)Nous avons créé un diagramme de Gantt pour la réalisation de notre application web de gestion scolaire en 30
+ jours. Le diagramme montre toutes les tâches nécessaires pour achever le projet, les dépendances entre les tâches, 
+les durées estimées pour chaque tâche et les jalons clés du projet.Nous allons commencer par les tâches
+ les plus importantes et les plus critiques, puis travailler sur les tâches restantes en parallèle. 
+Nous allons également affecter des ressources appropriées à chaque tâche pour garantir que nous avons suffisamment
+ de ressources pour terminer le projet dans les délais impartis. 
+
+Diagramme de softwere jira (photo 2)
+Nous avons choisi d'utiliser Jira pour la gestion de projet de notre application web de gestion scolaire 
+car c'est un outil de gestion de projet agile et puissant qui nous permettra de travailler de manière collaborative 
+et transparente tout en maintenant le contrôle sur les tâches et les délais du projet.
+Nous allons créer des tickets pour toutes les tâches nécessaires à la réalisation du projet,
+ puis les organiser en sprints pour travailler de manière itérative et livrer des fonctionnalités en petits lots.
+ Nous allons également utiliser Jira pour suivre l'état d'avancement de chaque ticket et 
+pour attribuer des responsabilités à chaque membre de l'équipe.
+
+git and git hup (photo 3)
+Nous avons choisi d'utiliser Git et GitHub pour la gestion de version et le contrôle de code source de notre application 
+web de gestion scolaire car c'est un outil puissant et populaire qui nous permettra de collaborer efficacement et de gérer 
+les modifications de code source de manière transparente.
+
+
+========================================= Expretion de besion ============================================================
+///Les Phase et planning du projet 
+Phase 1 : Planification et conception
+
+ Nous avons identifié les besoins et les objectifs du projet
+ défini les exigences fonctionnelles et techniques de l'application
+ conçu l'architecture de l'application et planifié le projet en utilisant des outils tels que le diagramme de Gantt ou Jira
+
+
+
+Phase 2 : Développement
+ j'ai commencé par développer les fonctionnalités de base de l'application 
+en suivant les exigences fonctionnelles et techniques que j'ai définies lors de la phase de planification.
+ J'ai travaillé en utilisant des technologies et des outils adaptés à l'application,
+ en suivant les bonnes pratiques de développement et en respectant les délais prévus.
+
+Phase 3 : Tests et validation
+
+Dans cette phase, nous avons effectué des tests d'acceptation utilisateur pour nous assurer
+ que l'application répondait aux exigences fonctionnelles et techniques définies dans la phase précédente.
+ Nous avons également identifié et corrigé les erreurs qui ont été détectées pendant les tests.
+
+Phase 4 : Déploiement
+J'ai effectué la phase de déploiement en suivant les étapes suivantes :
+Déployer l'application sur un environnement de production
+Configurer l'application pour le déploiement
+Vérifier que l'application fonctionne correctement en production
+
+Phase 5 : Maintenance
+
+
+Pendant la phase de Maintenance, l'application a été surveillée pour identifier 
+tout problème ou erreur qui se produit en production. Les erreurs ont été corrigées dès qu'elles ont été identifiées,
+ afin de minimiser l'impact sur les utilisateurs
+
+Planning du projet :
+
+Phase 1 : 10 jours
+Phase 2 : 10 jours
+Phase 3 : 5 jours
+Phase 4 : 5 jours
+Phase 5 : 5 jours
+Le planning du projet indique que le projet prendra un total de 35 jours pour être achevé, 
+en tenant compte des phases de planification, de développement, de tests, de déploiement et de maintenance. 
+=================================================================================================
+
+Lors de la phase de planification du projet de gestion scolaire, nous avons identifié l'importance 
+de la qualité pour assurer le succès du projet. Nous avons donc élaboré un plan d'assurance qualité 
+qui inclut les éléments suivants :
+Objectifs de qualité
+Planification de la qualité
+Documentation
+Normes et procédures
+Suivi et évaluation de la qualité
+Formation et compétences
+Gestion des anomalies
+Gestion des modifications
+Audit qualité
+Responsabilités
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

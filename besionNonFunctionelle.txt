@@ -1,0 +1,14 @@
+2. Besoins non fonctionnels
+Les besoins non fonctionnels présentent des exigences internes au système et cachées aux
+utilisateurs :
+2.1 Exigences d’ergonomie
+– Une interface conviviale, lisible et facile à utiliser.
+– Rapidité du temps de réponse car il joue un rôle fondamental. Il doit être court.
+– Utiliser des listes contenant des valeurs correctes afin d’éviter la saisie et par
+conséquent les erreurs de saisie.
+2.2 La Sécurité
+– Traçabilité et journalisation des transactions et des opérations effectuées
+– Le système doit être sécurisé avec l’obligation pour chaque utilisateur de saisir un mot
+de passe et un login. 
+– L’authentification : Elle est assurée par un module d’authentification et d’autorisation,
+il gère l’accès entre les utilisateurs et l’application par un login et un mot de passe. 
